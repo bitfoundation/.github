@@ -1,3 +1,3 @@
 # .github
-Bit foundation workshops
-Where we house the samples essential for our workshop sessions! ❤️
+Bit foundation
+Where we house the repositories essential for our open source journey! ❤️
